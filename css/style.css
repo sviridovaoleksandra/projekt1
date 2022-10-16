@@ -1,0 +1,56 @@
+header{
+    text-align: center;
+    width: 600px;
+    margin: 0 auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    color:#ffA07A;
+    font-size: xx-large;
+}
+svg{
+    text-align: center ;
+}
+
+img{
+    border-radius: 50%;
+    float: left;
+    position : relative;
+    left : 100px;
+    top: 20px;
+    width: 175px;
+    height: 175px;
+}
+
+.figyre{
+    text-align: center;
+    font-size: small;
+}
+
+h2{
+    color: #ffA07A;
+    font-size: small;
+    position: relative;
+    text-align: left;
+    left: 150px;
+}
+.exemple1{
+    text-align: left;    
+    left: 200px;
+    top: 10px;
+    position: relative;
+}
+.reactangle{
+    height: 8px;
+    width: 179px;
+    background-color: #454545;
+    position: relative;
+    left: 325px;
+}
+p{
+    text-align: left;
+    font-size: small;
+    position: relative;
+    left: 150px;
+}
+
